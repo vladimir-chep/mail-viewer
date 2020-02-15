@@ -1,0 +1,59 @@
+html,
+body,
+div,
+form,
+fieldset,
+legend,
+caption,
+label,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre {
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    font-weight: normal;
+    font-size: 100%;
+    outline: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th,
+td {
+    vertical-align: top;
+    text-align: left;
+}
+
+img {
+    border: 0;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    line-height: 1.8;
+    color: #333;
+    background-color: #fff;
+    font-family: 'Roboto', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', 'Meiryo', Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    letter-spacing: .2px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    -webkit-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+}
